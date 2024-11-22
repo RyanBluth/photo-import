@@ -1,0 +1,9 @@
+[package]
+name = "richo-import"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+structopt = "0.3"
+anyhow = "1.0.93"
+chrono = "0.4.38"
